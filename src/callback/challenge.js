@@ -1,4 +1,4 @@
-const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequestS;
+const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const API = "https://api.escuelajs.co/api/v1";
 
 function fetchData(urlAPI, callback) {
